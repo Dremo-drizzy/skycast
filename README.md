@@ -93,3 +93,5 @@ Weather and geocoding data by [Open-Meteo.com](https://open-meteo.com/) under [C
 ## License
 
 MIT © Daniel Nwachukwu Chukwuemeka
+
+Built with Claude Code as a pair programmer.
